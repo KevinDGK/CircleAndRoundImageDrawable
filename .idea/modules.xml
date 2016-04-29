@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/DrawableAdvancedUsage.iml" filepath="$PROJECT_DIR$/DrawableAdvancedUsage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CircleAndRoundImageDrawable-master.iml" filepath="$PROJECT_DIR$/CircleAndRoundImageDrawable-master.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
